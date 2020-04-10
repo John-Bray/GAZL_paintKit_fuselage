@@ -1,7 +1,6 @@
 ## GAZL paint kit for fuselage.png
 
 
-
 There are probably only two layers that you will need to work on:
 
 
